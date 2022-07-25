@@ -14,4 +14,17 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+Main page demo is given here 
+
 ![My-image](asset/theme.PNG)
+
+TimePicker with demo
+
+![My-image](asset/theme3.PNG)
+
+
+DatePicker with demo
+
+![My-image](asset/theme2.PNG)
+
+
